@@ -1,6 +1,6 @@
 [submodule "tmux/plugins/tpm"]
 	path = tmux/plugins/tpm
-	url = git@github.com:tmux-plugins/tpm.git
+	url = https://github.com/tmux-plugins/tpm
 [submodule "weechat/urlview"]
 	path = weechat/urlview
 	url = https://github.com/keith/urlview-weechat
@@ -12,7 +12,7 @@
 	url = https://github.com/GermainZ/weechat-vimode
 [submodule "tmux/plugins/tmux-urlview"]
 	path = tmux/plugins/tmux-urlview
-	url = https://github.com/pigmonkey/tmux-urlview.git
+	url = https://github.com/pigmonkey/tmux-urlview
 	branch = reverse
 [submodule "weechat/weemoji"]
 	path = weechat/weemoji
