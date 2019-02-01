@@ -1,8 +1,8 @@
 [user]
-	email = pm@pig-monkey.com
-	name = Pig Monkey
+	email = philippe.huysmans@pythagoria.com
+	name = Philippe Huysmans
 [core]
-	excludesfile = /home/pigmonkey/.gitignore
+	excludesfile = /home/phuysmans/.gitignore
 [push]
 	default = simple
 [alias]
